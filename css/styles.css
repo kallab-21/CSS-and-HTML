@@ -1,0 +1,18 @@
+body{
+    background: rgb(241, 226, 226);
+}
+
+.container{
+    margin: 30px;
+    border: 5rem solid grey;
+    display: grid;
+    grid-template-columns: auto;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.box{
+    width: 200px;
+    height: 300px;
+    background: rgb(167, 28, 28);
+    margin: 1rem;
+}
