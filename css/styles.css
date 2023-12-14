@@ -1,3 +1,12 @@
+:root{
+    --color-primary: white;
+    --color-secondary: grey;
+    --color-accent: #ff3400;
+    --color-headings: dark grey;
+    --color-body: rgb(26, 22, 22);
+    
+     
+}
 body{
     background: rgb(241, 226, 226);
 }
